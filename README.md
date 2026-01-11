@@ -10,3 +10,5 @@ Demonstrates Object-Oriented Programming Principles
 - Memory Management
 - STL Containers and Algorithms
 - Reading text files using I/O streams
+
+Written in Visual Studio
